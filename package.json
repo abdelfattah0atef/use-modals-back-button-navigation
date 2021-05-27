@@ -1,0 +1,30 @@
+{
+  "name": "use-modals-back-button-navigation",
+  "version": "1.0.0",
+  "description": "Custom hook to handle closing modals, drawer and accordions when click the browser back button or the mobile native back button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelfattah0atef/use-modals-back-button-navigation.git"
+  },
+  "keywords": [
+    "Modals",
+    "Frontend",
+    "Back button",
+    "React",
+    "React hooks"
+  ],
+  "author": "Abdelfattah Atef",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-router-dom": "^5.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/abdelfattah0atef/use-modals-back-button-navigation/issues"
+  },
+  "homepage": "https://github.com/abdelfattah0atef/use-modals-back-button-navigation#readme"
+}
